@@ -1,6 +1,8 @@
 🧠 APTOS Diabetic Retinopathy Classifier with Grad-CAM
 A deep learning web app built with PyTorch and Streamlit that predicts diabetic retinopathy levels (0–4) from retinal images. Powered by a fine-tuned ResNet-18 and visualized with Grad-CAM heatmaps for explainable AI.
 
+DATASET: https://www.kaggle.com/datasets/mariaherrerot/aptos2019?select=val_images
+
 🔧 Built With:
 PyTorch & Torchvision
 
